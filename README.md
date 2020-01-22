@@ -1,4 +1,4 @@
-# clock-empty
+# clock
 
 ## Project setup
 ```
